@@ -6,3 +6,5 @@ ner_umls_part1.ipynb: shows the custom code to extract from MIMIC-IV database an
 ner_umls_part2.ipynb: shows usage of Scispacy model to map to CUIS and then crosswalk it to ICD10 and SNOMED
 
 umls_scispacy_analysis.ipynb: Shows all the results and comparitive analaysis 
+
+### Accepted for IEEE BHI conference 2025, citation link to be added soon.
