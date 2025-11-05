@@ -7,4 +7,7 @@ ner_umls_part2.ipynb: shows usage of Scispacy model to map to CUIS and then cros
 
 umls_scispacy_analysis.ipynb: Shows all the results and comparitive analaysis 
 
-### Accepted for IEEE BHI conference 2025, citation link to be added soon.
+### Citation for this work:
+Mapping Extracted Free-Text Primary Diagnoses to ICD-10 and SNOMED-CT Using SciSpacy: A Performance Evaluation
+P Naliyatthaliyazchayil, VR Sangam, R Muthyala, S Purkayastha
+IEEE-EMBS International Conference on Biomedical and Health Informatics 2025
